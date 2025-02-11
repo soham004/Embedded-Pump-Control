@@ -46,7 +46,7 @@ The pump is off
 ```
 
 ## Photo Example
-<img src="images/1733328243948.jpeg" alt="drawing" width="200" style="margin-right:auto;margin-left:auto"/>
+<img src="images/1733328243948.jpeg" alt="drawing" width="50%" />
 
 ## License
 This project is licensed under the MIT License.
